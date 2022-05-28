@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_beyondx.mk
+    $(LOCAL_DIR)/evolution_beyondx.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_beyondx-eng \
-    lineage_beyondx-user \
-    lineage_beyondx-userdebug
+    evolution_beyondx-eng \
+    evolution_beyondx-user \
+    evolution_beyondx-userdebug
